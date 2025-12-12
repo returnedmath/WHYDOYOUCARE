@@ -1,0 +1,6 @@
+name = "noserverha"
+main = "index.js"
+compatibility_date = "2024-11-11"
+
+# optional but recommended
+workers_dev = true
